@@ -1,0 +1,38 @@
+.App{
+  height: 100vh;
+  background-color: #BAD7E9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  width: 30%;
+  height: 60%;
+  background-color: #2B3467;
+  padding: 2rem;
+  color: #FCFFE7;
+  border-radius: 10px;
+}
+
+.answers{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.ans{
+  background-color: #2B3467;
+  border: 2px solid #FCFFE7;
+  margin-top: 1rem;
+  padding: .5rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #FCFFE7;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.ans:hover{
+  background-color: #000;
+}

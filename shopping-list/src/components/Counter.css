@@ -1,0 +1,24 @@
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.icon{
+    font-size: 1.5rem;
+    color: #FCFFE7;
+    cursor: pointer;
+}
+
+.counter-value{
+    width: 3rem;
+    text-align: center;
+    border-radius: 5px;
+    border: 0;
+    padding: .3rem;
+    background: none;
+    font-size: 1.3rem;
+    color: #FCFFE7;
+}

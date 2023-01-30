@@ -1,0 +1,45 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+
+.shopping-list{
+  background-color: #EB455F;
+  padding: 2rem;
+  border-radius: 10px;
+  min-height: 10rem;
+}
+
+.add-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-item input{
+  width: 20rem;
+  margin-right: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  outline: none;
+  border: 0;
+  padding: .3rem .5rem;
+  color: #EB455F;
+  border-radius: 10px;
+  background-color: #FAEAB1;
+}
+
+.add-item .fa-plus{
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #FAEAB1;
+  transition: .5s;
+}
+
+.add-item .fa-plus:hover{
+  transform: scale(1.3);
+}
