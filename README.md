@@ -1,4 +1,4 @@
-# 30 Days Of JavaScript [![img](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+# React Beginner Projects [![img](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 Beginner React Projects!!
 
